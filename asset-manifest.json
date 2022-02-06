@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "https://devholic22.github.io/react_basic/static/js/main.fc5d36e7.js",
-    "index.html": "https://devholic22.github.io/react_basic/index.html",
-    "main.fc5d36e7.js.map": "https://devholic22.github.io/react_basic/static/js/main.fc5d36e7.js.map"
+    "main.js": "/react_basic/static/js/main.755d529f.js",
+    "index.html": "/react_basic/index.html",
+    "main.755d529f.js.map": "/react_basic/static/js/main.755d529f.js.map"
   },
   "entrypoints": [
-    "static/js/main.fc5d36e7.js"
+    "static/js/main.755d529f.js"
   ]
 }
